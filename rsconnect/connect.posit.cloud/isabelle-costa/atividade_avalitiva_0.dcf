@@ -1,0 +1,14 @@
+name: atividade_avalitiva_0
+title: Atividade Avalitiva 0
+username: isabelle-costa
+account: isabelle-costa
+server: connect.posit.cloud
+hostUrl: https://api.connect.posit.cloud/v1
+appId: 01a00273-a203-8c3e-357b-949d6556ef9e
+bundleId:
+url: https://connect.posit.cloud/isabelle-costa/content/01a00273-a203-8c3e-357b-949d6556ef9e
+version: 1
+quarto_version: 1.10.18
+quarto_engines: markdown
+asMultiple: FALSE
+asStatic: FALSE
