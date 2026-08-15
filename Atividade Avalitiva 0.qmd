@@ -112,8 +112,8 @@ Para avaliar a independência entre os grupos e as variáveis qualitativas, os a
 
 ##
 **Tabela de Tipo de Fratura vs. Variáveis Intra-hospitalares:**
-![](Tabela5.png){style="width:110%;"}
-![](Tabela4.jpg){style="width:110%;"}
+![](Tabela5.png){style="width: 110%; margin-bottom: 1px; display: block;"}
+![](Tabela4.jpg){style="width: 110%; margin-bottom: 1px; display: block;"}
 
 **Interpretação**
 
